@@ -103,7 +103,8 @@
               "src/assets/js/sb-admin-2.min.js",
               "src/assets/vendor/chart.js/Chart.min.js",
               "src/assets/js/demo/chart-area-demo.js",
-              "src/assets/js/demo/chart-pie-demo.js"
+              "src/assets/js/demo/chart-pie-demo.js",
+              "openweathermap.org/themes/openweathermap/assets/vendor/owm/js/d3.min.js"
             ]
           }
         }
